@@ -1,0 +1,11 @@
+.ant-modal-close-x {
+  display: none;
+}
+.MuiTabs-flexContainerVertical {
+  justify-content: space-between;
+  height: 450px;
+}
+
+.MuiTabs-vertical {
+  height: 450px;
+}

@@ -1,0 +1,7 @@
+.MuiCardActions-root {
+    display: flex;
+    justify-content: center;
+}
+.MuiButton-textPrimary {
+    color: rgb(0, 132, 137) !important;
+}

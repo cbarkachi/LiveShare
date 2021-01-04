@@ -1,0 +1,9 @@
+.MuiCardActions-root {
+    justify-content: center;
+}
+.MuiButton-label {
+    color: rgb(0, 132, 137);
+}
+.MuiButtonBase-root:focus {
+    outline: none;
+}

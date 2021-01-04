@@ -1,0 +1,7 @@
+.instructor-name,
+.instructor-name:hover {
+  color: rgb(0, 132, 137);
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}

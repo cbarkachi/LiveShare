@@ -1,0 +1,22 @@
+[
+    {
+        "firstName": "Leonardo",
+        "lastName": "da Vinci",
+        "email": "leonardo@gmail.com",
+        "password": "password",
+        "phoneNumber": "2019054808",
+        "location": "Florence, Italy",
+        "language": "Italian",
+        "description": "Leonardo da Vinci was born on 15 April 1452 near the Tuscan town of Vinci, the illegitimate son of a local lawyer. He was apprenticed to the sculptor and painter Andrea del Verrocchio in Florence and in 1478 became an independent master. In about 1483, he moved to Milan to work for the ruling Sforza family as an engineer, sculptor, painter and architect. From 1495 to 1497 he produced a mural of 'The Last Supper' in the refectory of the Monastery of Santa Maria delle Grazie, Milan."
+    },
+    {
+        "firstName": "",
+        "lastName": "da Vinci",
+        "email": "leonardo@gmail.com",
+        "password": "password",
+        "phoneNumber": "2019054808",
+        "location": "Florence, Italy",
+        "language": "Italian",
+        "description": "Leonardo da Vinci was born on 15 April 1452 near the Tuscan town of Vinci, the illegitimate son of a local lawyer. He was apprenticed to the sculptor and painter Andrea del Verrocchio in Florence and in 1478 became an independent master. In about 1483, he moved to Milan to work for the ruling Sforza family as an engineer, sculptor, painter and architect. From 1495 to 1497 he produced a mural of 'The Last Supper' in the refectory of the Monastery of Santa Maria delle Grazie, Milan."
+    }
+]
